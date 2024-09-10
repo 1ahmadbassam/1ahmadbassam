@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bassam El Bizri</h1>
-<h3 align="center">An aspiring Computer Engineering student @ American University of Beirut, Lebanon.</h3>
+<h3 align="center">An aspiring E3 Computer Engineering student @ American University of Beirut, Lebanon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1ahmadbassam&label=Profile%20views&color=0e75b6&style=flat" alt="1ahmadbassam" /> </p>
 
-- 🔭 I’m currently working on **hardware research, software research, and Minecraft modding!**
+- 🔭 I’m currently working on **embedded systems** and **hardware research**!
 
 - 🌱 I’m currently learning **systems development with C, artifical intelligence frameworks.**
 
@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **ahmadbassam.elbizri@gmail.com**.
 
-- ⚡ Fun fact: **I picked up Minecraft development just by reading code!**
+- ⚡ Fun fact: **My first language was C#!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
