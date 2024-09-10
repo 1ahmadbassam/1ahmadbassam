@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1ahmadbassam&label=Profile%20views&color=0e75b6&style=flat" alt="1ahmadbassam" /> </p>
 
-- 🔭 I’m currently working on **embedded systems** and **hardware research**!
+- 🛠 I’m currently working on **embedded systems** and **hardware research**!
+
+- 🔭 I'm looking for **hardware development** and **software engineering** summer internships, and everything in between!
 
 - 🌱 I’m currently learning **systems development with C, artifical intelligence frameworks.**
 
