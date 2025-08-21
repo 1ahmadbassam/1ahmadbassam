@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bassam El Bizri</h1>
-<h3 align="center">An aspiring E3 Computer Engineering student @ American University of Beirut, Lebanon.</h3>
+<h3 align="center">An aspiring E4 Computer Engineering student @ American University of Beirut, Lebanon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1ahmadbassam&label=Profile%20views&color=0e75b6&style=flat" alt="1ahmadbassam" /> </p>
 
-- 🛠 I’m currently working on **embedded systems** and **hardware research**!
-
-- 🔭 I'm looking for **hardware development** and **software engineering** summer internships, and everything in between!
-
-- 🌱 I’m currently learning **systems development with C, artifical intelligence frameworks.**
-
-- 💬 Ask me about **progamming, software development, software analysis, testing and debugging, hardware systems, or anything you like!**
+- 🛠 I’m currently working on my final year project in **hardware research**!
 
 - 📫 Reach me at **ahmadbassam.elbizri@gmail.com**.
 
-- ⚡ Fun fact: **My first language was C#!**
+- ⚡ Fun fact: **I LOVE C!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
