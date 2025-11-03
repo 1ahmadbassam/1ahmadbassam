@@ -1,3 +1,51 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h3 align="center">
+  Hi, I'm Ahmad Bassam El Bizri
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&duration=1500&pause=1000&color=238636&center=true&vCenter=true&width=435&lines=Custom+RISC-V+Processors;SIMD+Accelerators;Hardware+for+AI%2FML;Embedded+Systems;Reconfigurable+Computing" alt="Research Interests" />
+</p>
+
+---
+
+- 👨‍💻 As a Computer Engineer, I'm driven by a passion for hardware-level optimization and low-level software applications.
+
+- 💬 Ask me about low-level computer architecture, hardware accelerators for domain-specific applications, or systems programming!
+
+- 🌱 I’m currently focused on hardware/software co-design and accelerated computing for AI/ML workloads.
+
+## 🛠 &nbsp;Tech Stack
+
+#### 🔧 Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/SystemVerilog-1E1E1E?style=for-the-badge&logo=velog&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Mojo](https://img.shields.io/badge/Mojo-FF6F00?style=for-the-badge&logo=fireship&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-A8B9CC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-283192?style=for-the-badge&logo=riscv&logoColor=white)
+
+#### 📚 Frameworks & Libraries
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel TBB](https://img.shields.io/badge/Intel%20TBB-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-404040?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🔧 Tools
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-8B0000?style=for-the-badge&logo=amd&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+
 <h1 align="center">Hi 👋, I'm Ahmad Bassam El Bizri</h1>
 <h3 align="center">An aspiring E4 Computer Engineering student @ American University of Beirut, Lebanon.</h3>
 
