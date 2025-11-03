@@ -4,7 +4,7 @@
 
 <h3 align="center">
   Hi, I'm Ahmad Bassam El Bizri
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 </h3>
 
 <p align="center">
@@ -23,52 +23,50 @@
 
 #### 🔧 Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-2D4B91?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/SystemVerilog-1E1E1E?style=for-the-badge&logo=velog&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Mojo](https://img.shields.io/badge/Mojo-FF6F00?style=for-the-badge&logo=fireship&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-A8B9CC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-1E1E1E?style=for-the-badge&logo=velog&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-0074C2?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283192?style=for-the-badge&logo=riscv&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Mojo](https://img.shields.io/badge/Mojo-FF6F00?style=for-the-badge&logo=fireship&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### 📚 Frameworks & Libraries
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Intel TBB](https://img.shields.io/badge/Intel%20TBB-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TBB](https://img.shields.io/badge/TBB-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-404040?style=for-the-badge&logo=github&logoColor=white)
+![Win32](https://img.shields.io/badge/Win32-00A3EE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPldpbmRvd3MgMTA8L3RpdGxlPjxwYXRoIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEyLjktMS44MDEiLz48L3N2Zz4=)
 
 #### 🔧 Tools
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-8B0000?style=for-the-badge&logo=amd&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-8B0000?style=for-the-badge&logo=amd&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPk1hdGh3b3JrcyBpY29uPC90aXRsZT48cGF0aCBkPSJNNC4zMjMgMTYuMjVDMy4xMyAxNS4zNTQgMS42NCAxNC4zMSAwIDEzLjEybDUuODE0LTIuMjM3IDIuMzg2IDEuNzljLTEuNzkgMi4wODYtMi45ODIgMi44MzEtMy44NzcgMy41Nzd6bTE1Ljk1Mi02LjI2MWMtLjQ0Ny0xLjE5My0uNzQ1LTIuMzg1LTEuMTkzLTMuNTc4LS40NDctMS4zNDMtLjg5NC0yLjUzNS0xLjY0LTMuNTc5LS4yOTktLjQ0Ny0uODk1LTEuNDktMS42NC0xLjQ5LS4xNSAwLS4yOTkuMTQ4LS40NDguMTQ4LS40NDcuMTUtMS4wNDMgMS4wNDMtMS4xOTMgMS42NC0uNDQ3Ljc0NS0xLjM0MiAxLjkzOC0xLjkzOCAyLjY4My0uMTQ5LjI5OS0uNDQ3LjU5Ny0uNTk2Ljc0Ni0uNDQ3LjI5OC0uODk0Ljc0NS0xLjQ5MSAxLjA0My0uMTUgMC0uMjk4LjE0OS0uNDQ3LjE0OS0uNDQ3IDAtLjc0NS4yOTgtMS4wNDMuNDQ3LS40NDcuNDQ3LS44OTQgMS4wNDMtMS4zNDIgMS40OSAwIC4xNS0uMTUuMjk5LS4yOTguNDQ4bDIuMjM2IDEuNjRjMS42NC0xLjkzOCAzLjU3OC0zLjg3NiA0LjkyLTcuNjAzIDAgMC0uNDQ4IDQuMDI2LTQuMDI2IDguMzQ5LTIuMjM2IDIuNTM0LTQuMDI1IDMuODc2LTQuMzI0IDQuMTc0IDAgMCAuNTk3LS4xNDkgMS4xOTQuMTUgMS4xOTMuNDQ2IDEuNzg5IDIuMDg3IDIuMjM2IDMuMjc5LjI5OC44OTQuNzQ1IDEuNjQgMS4wNDMgMi41MzQgMS4xOTMtLjI5OCAxLjkzOC0uNzQ1IDIuNjgzLTEuNDkxLjc0NS0uNzQ2IDEuNDkxLTEuNjQgMi4yMzYtMi4zODUgMS4zNDItMS42NCAyLjk4Mi0zLjcyOCA1LjA2OS0yLjY4NC4yOTguMTUuNzQ1LjQ0Ny44OTQuNTk2LjQ0Ny4yOTguNzQ1LjU5NiAxLjE5MyAxLjA0My43NDUuNTk3IDEuMDQzIDEuMDQ0IDEuNjQgMS4zNDMtMS40OTEtMi45ODItMi41MzQtNS45NjQtMy43MjctOS4wOTR6Ii8+PC9zdmc+)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FF9100?style=for-the-badge&logo=firebase&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-77216F?style=for-the-badge&logo=linux&logoColor=white)
 
-<h1 align="center">Hi 👋, I'm Ahmad Bassam El Bizri</h1>
-<h3 align="center">An aspiring E4 Computer Engineering student @ American University of Beirut, Lebanon.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1ahmadbassam&label=Profile%20views&color=0e75b6&style=flat" alt="1ahmadbassam" /> </p>
+## 📊 Profile Statistics
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=1ahmadbassam&theme=vue&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=1ahmadbassam&theme=vue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&hide_border=true" alt="GitHub Streak"/>
+<br>
+</div>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ahmadbassam&layout=donut&stats_format=bytes&hide_border=true&theme=vue&show_icons=true&count_private=true&" alt="GitHub Top Langs"/>
+<br>
+</div>
 
-- 🛠 I’m currently working on my final year project in **hardware research**!
+## 🔗 &nbsp;Contact Me
 
-- 📫 Reach me at **ahmadbassam.elbizri@gmail.com**.
-
-- ⚡ Fun fact: **I LOVE C!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad-bassam-el-bizri-429a732ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-bassam-el-bizri-429a732ab" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/1ahmadb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1ahmadb" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a><a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="riscv" width="40" height="40"/></a><a href="https://ieeexplore.ieee.org/document/10458102" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="verilog" width="40" height="40"/></a><a href="https://www.minecraft.net/en-us" target="_blank" rel="noreferrer"> <img src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Global-Header_MCCB-Logo_300x51.svg" alt="minecraft" width="40" height="40"/></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1ahmadbassam&show_icons=true&locale=en&layout=compact" alt="1ahmadbassam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1ahmadbassam&show_icons=true&locale=en" alt="1ahmadbassam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1ahmadbassam&" alt="1ahmadbassam" /></p>
-
+<div align="center">
+<a href="mailto:ahmadbassam.elbizri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahmad-bassam-el-bizri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.leetcode.com/1ahmadb"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-581FA2?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://t.me/ahmadb0"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+</div>
