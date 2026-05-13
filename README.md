@@ -52,12 +52,12 @@
 
 ## 📊 Profile Statistics
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=1ahmadbassam&theme=vue&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=1ahmadbassam&theme=vue&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=1ahmadbassam&theme=vue&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&hide_border=true" alt="GitHub Streak"/>
 <br>
 </div>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ahmadbassam&layout=donut&stats_format=bytes&hide_border=true&theme=vue&show_icons=true&count_private=true&" alt="GitHub Top Langs"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=1ahmadbassam&layout=donut&stats_format=bytes&hide_border=true&theme=vue&show_icons=true&count_private=true&" alt="GitHub Top Langs"/>
 <br>
 </div>
 
